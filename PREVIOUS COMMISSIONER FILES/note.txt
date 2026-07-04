@@ -1,0 +1,9 @@
+These are the latest files provided by our previous commissioner for the UST thesis submission. However, some are not the final versions used for the official submission because we had to fix several errors. A few files also remain incomplete due to complications with the commissioner.
+
+Files that were used for the final paper:
+"EVSeasonality_Check"
+"walkForwardValidation"
+
+Files that we corrected (can be found in the "MAIN CODE FILES" folder)
+- allModels code
+- EVnew2 code
