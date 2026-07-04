@@ -1,0 +1,5 @@
+This main page contains the final manuscript and codes used for the thesis, along with the statistical analysis located in the folder "STATISTICAL ANALYSIS". 
+
+The folder titled "PREVIOUS COMMISSIONER FILES" contains the files that our previous commissioner sent during our undergraduate thesis. The files we sent for the initial commission are also available there. 
+
+The folder titled "TENCON FILES" contains the current TENCON submission files and also the revisions Word document.
