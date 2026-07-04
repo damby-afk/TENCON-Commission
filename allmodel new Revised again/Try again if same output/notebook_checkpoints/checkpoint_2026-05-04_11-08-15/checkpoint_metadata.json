@@ -1,0 +1,18 @@
+{
+    "checkpoint_time": "2026-05-04_11-08-15",
+    "checkpoint_folder": "notebook_checkpoints\\checkpoint_2026-05-04_11-08-15",
+    "export_folder": "allModels_exports",
+    "saved_files": [
+        "benchmark_figure_data.csv",
+        "benchmark_metrics.csv",
+        "benchmark_hyperparameters.csv",
+        "benchmark_export_metadata.csv",
+        "benchmark_outputs.xlsx",
+        "arrays_and_forecasts.npz",
+        "scaler.pkl",
+        "tcn_model.keras",
+        "pso_tcn_model.keras",
+        "ga_tcn_model.keras",
+        "hyperparameters.json"
+    ]
+}

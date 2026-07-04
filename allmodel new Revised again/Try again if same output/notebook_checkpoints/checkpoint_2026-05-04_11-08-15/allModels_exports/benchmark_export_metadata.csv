@@ -1,0 +1,6 @@
+item,value
+rows_exported,10385
+start_timestamp,2022-09-28 12:00:00
+end_timestamp,2023-12-05 04:00:00
+train_size,41539
+window,24

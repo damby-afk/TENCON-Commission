@@ -1,0 +1,3 @@
+Model,filters,kernel_size,dropout
+PSO-TCN,65,5,0.11849765651153102
+GA-TCN,104,2,0.12378853692005057
